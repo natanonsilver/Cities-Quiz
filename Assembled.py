@@ -35,7 +35,7 @@ age()
 #Asking the user to enter their age by using try and except.
 
 def instructions():
-    inst=input("Do you need instructions to play? : answer 'y' for Yes and 'n' for No")
+    inst=input("Do you need instructions to play? : answer 'y' for Yes and 'n' for No :")
     if inst=="y":
         print("=======================================================================================")
         print("You will be given a set of four or three answers and you must choose which one is right")
